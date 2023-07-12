@@ -51,3 +51,5 @@ Ekli Excel dosyasında yalnız turuncu renkli hücrelerde değişiklik yapınız
 Normalde bu işlemi el ile deneme yanılma yöntemiyle gerçekleştirebilirsiniz. Fakat, sizin için kolaylık olması açısından bu hesaplamayı rahatça yapabilmeniz için sağ üst köşeye buton/tuş koydum. Tek yapmanız gereken "I2" hücresinde bulunan hedef kâr oranını (satışa göre) istediğiniz orana getirmeniz ve "Kâr Oranına Göre Satış Fiyatını Belirleme Aracı! (TIKLAYINIZ)" tuşuna/butonuna basmanız. 
 
 ÖRNEK: Hedeflenen kâr oranı (Satış Fiyatına Göre) "I2" hücresinde %35 olarak giriniz ve ilgili butona/tuşa basınız. Göreceksiniz ki "Trendyol'da Satış Fiyatımız (KDV Dahil)" "B14" hücresi değeri otomatik olarak değişecektir (204.96 ₺ olacak!). Bu durumda Sonuç Kâr Değerleri bölümündeki Toplam (Birim) Kâr 71.68 ₺ olarak hesaplanacak (toplamda 500 adet ürün için elde edeceğiniz toplam net kâr miktarı 35,839.96 ₺ olacak). 
+
+Gerektiği durumda bize ulaşıp yardım alabilirsiniz. Bol kazançlar. Rabbim utandırmasın. 
