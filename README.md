@@ -42,9 +42,9 @@ Ekli Excel dosyasında yalnız turuncu renkli hücrelerde değişiklik yapınız
 ## Sonuçları Nereden Görebilirim?
 Üstte belirtilen verileri girdiğiniz zaman sonuçlara hızlı bir şekilde ulaşmış olacaksınız: 
 
-- Ürün başına net kârınızı (gelir vergisi de düştükten sonra) "B50" hücresinde görebilirsiniz (Örnekteki senaryoya göre birim ürün başına 104.24 ₺ net kâr elde etmiş oluyoruz).
-- Ürün başına net kârınızın (Trendyol) satış fiyatına göre oranını "B52" hücresinde görebilirsiniz (Örnekteki senaryoya göre satış fiyatına göre %40 kâr oranı elde etmiş oluyoruz).
-- Ürün başına net kârınızın ürün maliyetine (ürün alış maliyeti, nakliyat, paketleme ve reklam masrafları) göre oranını "B53" hücresinde görebilirsiniz (Örnekteki senaryoya göre ürün maliyetine göre %321.82 kâr oranı elde etmiş oluyoruz).
+- Ürün başına net kârınızı (gelir vergisi de düştükten sonra) "B51" hücresinde görebilirsiniz (Örnekteki senaryoya göre birim ürün başına 104.24 ₺ net kâr elde etmiş oluyoruz).
+- Ürün başına net kârınızın (Trendyol) satış fiyatına göre oranını "B53" hücresinde görebilirsiniz (Örnekteki senaryoya göre satış fiyatına göre %40 kâr oranı elde etmiş oluyoruz).
+- Ürün başına net kârınızın ürün maliyetine (ürün alış maliyeti, nakliyat, paketleme ve reklam masrafları) göre oranını "B54" hücresinde görebilirsiniz (Örnekteki senaryoya göre ürün maliyetine göre %321.82 kâr oranı elde etmiş oluyoruz).
 
 
 ## Hedef Kâr Oranına Göre Satış Fiyatı Nasıl Belirlenir? 
