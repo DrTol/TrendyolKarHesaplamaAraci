@@ -6,7 +6,7 @@ Eğer Trendyol e-ticaret sitesinde ürün satıyorsanız ve komisyon, kargo, hiz
 
 Bu Trendyol Kâr Oranı Hesaplama Excel dosyası 10 Temmuz 2023 sonrası güncel vergi oranları ve Trendyol komisyon oranlarını dikkate alarak hazırlandı! Eğer bu oranlarda ileriki bir zamanda değişiklik olursa kolayca vergi ve komisyon oranlarını kendiniz güncelleyebilirsiniz. 
 
-Lütfen **!_GiderHesaplamaAracı_v00.xlsm** dosyasını indirin! 
+Lütfen **!_GiderHesaplamaAracı_v00.xlsm** dosyasını indirin (dosyayı açtığınızda makroya izin verin)! Makroya ihtiyacınız yoksa **!_GiderHesaplamaAracı_v00.xlsx** dosyasını indirebilirsiniz. 
 
 ## Teknik Özellikler
 - Excel dosyasının basit arayüzü ile vergi oranı, Trendyol komisyon oranı, alış miktarı, alış maliyeti ve satış fiyatı gibi verileri kolayça girip; hızlıca toplam net kâr miktarınızı ve satışa veya alışa göre kâr oranlarınızı elde edebilirsiniz.
