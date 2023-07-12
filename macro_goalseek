@@ -1,0 +1,11 @@
+Sub Macro1()
+'
+' TRENDYOL KAR HEDEFI - Goal Seek
+'
+
+'
+    Application.CutCopyMode = False
+    Application.CutCopyMode = False
+    Application.CutCopyMode = False
+    Range("D53").GoalSeek Goal:=Range("I2").Value, ChangingCell:=Range("B14")
+End Sub
