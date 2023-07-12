@@ -10,6 +10,7 @@ Bu Trendyol Kâr Oranı Hesaplama Excel dosyası 10 Temmuz 2023 sonrası güncel
 ## Teknik Özellikler
 - Excel dosyasının basit arayüzü ile vergi oranı, Trendyol komisyon oranı, alış miktarı, alış maliyeti ve satış fiyatı gibi verileri kolayça girip; hızlıca toplam net kâr miktarınızı ve satışa veya alışa göre kâr oranlarınızı elde edebilirsiniz.
 - Excel dosyası ürün alış maliyeti ile nakliyat, paketleme ve reklam maliyetlerini kolayca girmenizi sağlar.
+- Aynı şekilde Trendyol Hizmet Bedeli ve Kargo masrafı hesaplamalara dahil edilmiştir. 
 - KDV hesaplama işlemi girdiğiniz verilere göre otomatik olarak hesaplanacaktır.
 - Elde ettiğiniz kâra göre gelir vergisi otomatik olarak hesaplanacaktır.
 - Excel dosyasında ayrıca hedeflenen kâr oranına göre satış fiyatınızı belirleyecek ek bir araç bulunmaktadır.
