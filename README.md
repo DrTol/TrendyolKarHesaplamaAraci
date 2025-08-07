@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F01JB1KE)
+
 # Trendyol Kâr Miktarı ve Oranını Hesaplama Excel Dosyası
 
 Eğer Trendyol e-ticaret sitesinde ürün satıyorsanız ve komisyon, kargo, hizmet bedeli vb. masrafları düştükten sonra net olarak ne kadar kar edeceğinizi hesaplamak istiyorsanız, bu Excel hesaplama aracı tam sizin için.
